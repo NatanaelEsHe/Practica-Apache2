@@ -1,4 +1,4 @@
-# Practica-Apache2
+# Practica - Apache2
 Crear un servidor Apache con 4 virtual host:  
 
 www.gato.com -> mostrará la imagen de un gato.  
